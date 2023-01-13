@@ -110,5 +110,6 @@ input[type=number]::-webkit-outer-spin-button {
 
 footer {
     background-color: rgb(121, 114, 22);
+    margin-bottom: 1vw;
 
 }
